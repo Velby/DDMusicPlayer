@@ -1,0 +1,554 @@
+{
+    "BG_Khalids_Death.ogg": {
+        "styles": [
+            "dark"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Khalids_Death.ogg"
+    }, 
+    "BG_Dream.ogg": {
+        "styles": [
+            "dark"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Dream.ogg"
+    }, 
+    "BG_Melissans_Theme.ogg": {
+        "styles": [
+            "nature"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Melissans_Theme.ogg"
+    }, 
+    "BG_Astral_Prison.ogg": {
+        "styles": [
+            "dark"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Astral_Prison.ogg"
+    }, 
+    "BG_Romance_1.ogg": {
+        "styles": [
+            "romance"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Romance_1.ogg"
+    }, 
+    "BG_Shadow_Battle.ogg": {
+        "styles": [
+            "fight"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Shadow_Battle.ogg"
+    }, 
+    "BG_Forest_Battle_1.ogg": {
+        "styles": [
+            "fight"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Forest_Battle_1.ogg"
+    }, 
+    "BG_Mountain_Battle_1.ogg": {
+        "styles": [
+            "fight"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Mountain_Battle_1.ogg"
+    }, 
+    "BG_City_Battle_2.ogg": {
+        "styles": [
+            "fight"
+        ], 
+        "source": "BG", 
+        "filename": "BG_City_Battle_2.ogg"
+    }, 
+    "BG_The_Hidden_Refuge.ogg": {
+        "styles": [
+            "nature"
+        ], 
+        "source": "BG", 
+        "filename": "BG_The_Hidden_Refuge.ogg"
+    }, 
+    "BG_Plains_Battle_2.ogg": {
+        "styles": [
+            "fight"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Plains_Battle_2.ogg"
+    }, 
+    "BG_Our_Haven_is_Lost.ogg": {
+        "styles": [
+            "nature"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Our_Haven_is_Lost.ogg"
+    }, 
+    "BG_The_Shadow_Portal.ogg": {
+        "styles": [
+            "dark"
+        ], 
+        "source": "BG", 
+        "filename": "BG_The_Shadow_Portal.ogg"
+    }, 
+    "BG_Bhaal_Spawn_Battle.ogg": {
+        "styles": [
+            "fight"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Bhaal_Spawn_Battle.ogg"
+    }, 
+    "BG_The_Pirate_Isle.ogg": {
+        "styles": [
+            "city", 
+            "tavern"
+        ], 
+        "source": "BG", 
+        "filename": "BG_The_Pirate_Isle.ogg"
+    }, 
+    "BG_Dreams_of_Bhaal.ogg": {
+        "styles": [
+            "dark", 
+            "army"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Dreams_of_Bhaal.ogg"
+    }, 
+    "BG_The_Bad.ogg": {
+        "styles": [
+            "dark"
+        ], 
+        "source": "BG", 
+        "filename": "BG_The_Bad.ogg"
+    }, 
+    "BG_The_Great_Tree.ogg": {
+        "styles": [
+            "nature"
+        ], 
+        "source": "BG", 
+        "filename": "BG_The_Great_Tree.ogg"
+    }, 
+    "BG_Claw_of_the_Black_Leopard.ogg": {
+        "styles": [
+            "dark"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Claw_of_the_Black_Leopard.ogg"
+    }, 
+    "BG_Pocket_Plane.ogg": {
+        "styles": [
+            "dark"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Pocket_Plane.ogg"
+    }, 
+    "BG_Resurrection_Gorge.ogg": {
+        "styles": [
+            "nature"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Resurrection_Gorge.ogg"
+    }, 
+    "BG_The_Good.ogg": {
+        "styles": [
+            "city"
+        ], 
+        "source": "BG", 
+        "filename": "BG_The_Good.ogg"
+    }, 
+    "BG_Plains_Battle_1.ogg": {
+        "styles": [
+            "fight"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Plains_Battle_1.ogg"
+    }, 
+    "BG_The_Vulgar_Monkey_Tavern.ogg": {
+        "styles": [
+            "tavern"
+        ], 
+        "source": "BG", 
+        "filename": "BG_The_Vulgar_Monkey_Tavern.ogg"
+    }, 
+    "BG_Neeras_Final_Confrontation.ogg": {
+        "styles": [
+            "fight"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Neeras_Final_Confrontation.ogg"
+    }, 
+    "BG_City_Battle_1.ogg": {
+        "styles": [
+            "fight"
+        ], 
+        "source": "BG", 
+        "filename": "BG_City_Battle_1.ogg"
+    }, 
+    "BG_Amkethran.ogg": {
+        "styles": [
+            "city", 
+            "sand"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Amkethran.ogg"
+    }, 
+    "BG_Wealthy_Estate.ogg": {
+        "styles": [
+            "city"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Wealthy_Estate.ogg"
+    }, 
+    "BG_Amongst_the_Sahuagin.ogg": {
+        "styles": [
+            "dark"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Amongst_the_Sahuagin.ogg"
+    }, 
+    "BG_Romance_2.ogg": {
+        "styles": [
+            "city"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Romance_2.ogg"
+    }, 
+    "BG_The_Umar_Hills.ogg": {
+        "styles": [
+            "dark", 
+            "nature"
+        ], 
+        "source": "BG", 
+        "filename": "BG_The_Umar_Hills.ogg"
+    }, 
+    "BG_Gaelan_Bayle_Sailing.ogg": {
+        "styles": [
+            "dark"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Gaelan_Bayle_Sailing.ogg"
+    }, 
+    "BG_Throne_of_Bhaal_Theme.ogg": {
+        "styles": [
+            "intro"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Throne_of_Bhaal_Theme.ogg"
+    }, 
+    "BG_The_Planar_Sphere.ogg": {
+        "styles": [
+            "dark"
+        ], 
+        "source": "BG", 
+        "filename": "BG_The_Planar_Sphere.ogg"
+    }, 
+    "BG_Irenicus_Final_Battle.ogg": {
+        "styles": [
+            "fight"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Irenicus_Final_Battle.ogg"
+    }, 
+    "BG_Raid_on_the_Red_Wizards.ogg": {
+        "styles": [
+            "fight"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Raid_on_the_Red_Wizards.ogg"
+    }, 
+    "BG_Tomb_of_the_Unborn_Prophet.ogg": {
+        "styles": [
+            "dark", 
+            "city", 
+            "sand"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Tomb_of_the_Unborn_Prophet.ogg"
+    }, 
+    "BG_Melissan_Battle.ogg": {
+        "styles": [
+            "fight"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Melissan_Battle.ogg"
+    }, 
+    "BG_Dungeon_Battle_2.ogg": {
+        "styles": [
+            "fight"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Dungeon_Battle_2.ogg"
+    }, 
+    "BG_Waukeens_Promenade.ogg": {
+        "styles": [
+            "city", 
+            "sand"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Waukeens_Promenade.ogg"
+    }, 
+    "BG_Asylum_Journey.ogg": {
+        "styles": [
+            "dark", 
+            "fight"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Asylum_Journey.ogg"
+    }, 
+    "BG_The_Mana_Forge.ogg": {
+        "styles": [
+            "dark"
+        ], 
+        "source": "BG", 
+        "filename": "BG_The_Mana_Forge.ogg"
+    }, 
+    "BG_Rendezvous_at_Dusk.ogg": {
+        "styles": [
+            "dark"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Rendezvous_at_Dusk.ogg"
+    }, 
+    "BG_Korkorrans_Lair.ogg": {
+        "styles": [
+            "dark", 
+            "epic"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Korkorrans_Lair.ogg"
+    }, 
+    "BG_Main_title.ogg": {
+        "styles": [
+            "intro"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Main_title.ogg"
+    }, 
+    "BG_The_Slums.ogg": {
+        "styles": [
+            "dark"
+        ], 
+        "source": "BG", 
+        "filename": "BG_The_Slums.ogg"
+    }, 
+    "BG_Storming_the_Silver_Heaven.ogg": {
+        "styles": [
+            "fight", 
+            "epic"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Storming_the_Silver_Heaven.ogg"
+    }, 
+    "BG_Temple_of_Helm.ogg": {
+        "styles": [
+            "city"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Temple_of_Helm.ogg"
+    }, 
+    "BG_Dragomirs_Embrace.ogg": {
+        "styles": [
+            "dark"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Dragomirs_Embrace.ogg"
+    }, 
+    "BG_Taverns.ogg": {
+        "styles": [
+            "city", 
+            "tavern"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Taverns.ogg"
+    }, 
+    "BG_Fire_Giant_March.ogg": {
+        "styles": [
+            "epic"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Fire_Giant_March.ogg"
+    }, 
+    "BG_Amaunator_Temple.ogg": {
+        "styles": [
+            "dark"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Amaunator_Temple.ogg"
+    }, 
+    "BG_Dorn_the_Punisher.ogg": {
+        "styles": [
+            "fight", 
+            "war"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Dorn_the_Punisher.ogg"
+    }, 
+    "BG_Mountain_Battle_2.ogg": {
+        "styles": [
+            "fight"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Mountain_Battle_2.ogg"
+    }, 
+    "BG_The_Asylum.ogg": {
+        "styles": [
+            "dark"
+        ], 
+        "source": "BG", 
+        "filename": "BG_The_Asylum.ogg"
+    }, 
+    "BG_The_Copper_Coronet.ogg": {
+        "styles": [
+            "tavern", 
+            "dark"
+        ], 
+        "source": "BG", 
+        "filename": "BG_The_Copper_Coronet.ogg"
+    }, 
+    "BG_Red_Dragon_Battle.ogg": {
+        "styles": [
+            "fight"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Red_Dragon_Battle.ogg"
+    }, 
+    "BG_Trademeet.ogg": {
+        "styles": [
+            "city"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Trademeet.ogg"
+    }, 
+    "BG_Sendais_Enclave.ogg": {
+        "styles": [
+            "dark", 
+            "nature"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Sendais_Enclave.ogg"
+    }, 
+    "BG_Saradush_Under_Siege.ogg": {
+        "styles": [
+            "prepare", 
+            "war"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Saradush_Under_Siege.ogg"
+    }, 
+    "BG_City_Gates.ogg": {
+        "styles": [
+            "city"
+        ], 
+        "source": "BG", 
+        "filename": "BG_City_Gates.ogg"
+    }, 
+    "BG_Nightmare_in_the_Docks.ogg": {
+        "styles": [
+            "dark"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Nightmare_in_the_Docks.ogg"
+    }, 
+    "BG_Abazigals_Enclave.ogg": {
+        "styles": [
+            "malefique", 
+            "army"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Abazigals_Enclave.ogg"
+    }, 
+    "BG_The_Druid_Grove.ogg": {
+        "styles": [
+            "nature"
+        ], 
+        "source": "BG", 
+        "filename": "BG_The_Druid_Grove.ogg"
+    }, 
+    "BG_Anomen_Romance.ogg": {
+        "styles": [
+            "city"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Anomen_Romance.ogg"
+    }, 
+    "BG_Forest_of_Tethyr.ogg": {
+        "styles": [
+            "nature"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Forest_of_Tethyr.ogg"
+    }, 
+    "BG_The_Beholder_Dungeon.ogg": {
+        "styles": [
+            "dark"
+        ], 
+        "source": "BG", 
+        "filename": "BG_The_Beholder_Dungeon.ogg"
+    }, 
+    "BG_The_Domain_of_the_Dragon.ogg": {
+        "styles": [
+            "dark", 
+            "fight"
+        ], 
+        "source": "BG", 
+        "filename": "BG_The_Domain_of_the_Dragon.ogg"
+    }, 
+    "BG_The_Heretic_Temple.ogg": {
+        "styles": [
+            "dark", 
+            "war", 
+            "sand"
+        ], 
+        "source": "BG", 
+        "filename": "BG_The_Heretic_Temple.ogg"
+    }, 
+    "BG_DeArnise_Hold_Besieged.ogg": {
+        "styles": [
+            "epic"
+        ], 
+        "source": "BG", 
+        "filename": "BG_DeArnise_Hold_Besieged.ogg"
+    }, 
+    "BG_The_Mines_of_Clan_Deepstone.ogg": {
+        "styles": [
+            "dark"
+        ], 
+        "source": "BG", 
+        "filename": "BG_The_Mines_of_Clan_Deepstone.ogg"
+    }, 
+    "BG_Forest_Battle_2.ogg": {
+        "styles": [
+            "fight"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Forest_Battle_2.ogg"
+    }, 
+    "BG_Sewer_Battle.ogg": {
+        "styles": [
+            "fight"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Sewer_Battle.ogg"
+    }, 
+    "BG_Jon_Irenicus_Encounter_Theme.ogg": {
+        "styles": [
+            "dark"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Jon_Irenicus_Encounter_Theme.ogg"
+    }, 
+    "BG_Underdark.ogg": {
+        "styles": [
+            "dark", 
+            "fight"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Underdark.ogg"
+    }, 
+    "BG_Jon_Battle_and_Peace.ogg": {
+        "styles": [
+            "dark"
+        ], 
+        "source": "BG", 
+        "filename": "BG_Jon_Battle_and_Peace.ogg"
+    }
+}
