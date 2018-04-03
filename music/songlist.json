@@ -1,1489 +1,1509 @@
 {
     "songs": {
-        "BG_Fire_Giant_March.ogg": {
+        "BG_The_Shadow_Portal.ogg": {
+            "lastplay": 1521353718.9919114,
+            "filename": "BG_The_Shadow_Portal.ogg",
             "styles": [
-                "epic"
+                "dark"
             ],
-            "lastplay": 0,
-            "source": "BG",
-            "filename": "BG_Fire_Giant_March.ogg"
+            "source": "BG"
         },
-        "witcher_Back_On_The_Path.ogg": {
-            "styles": [
-                "city"
-            ],
-            "lastplay": 1518396499.7994826,
-            "source": "witcher",
-            "filename": "witcher_Back_On_The_Path.ogg"
-        },
-        "witcher_Igni.ogg": {
-            "styles": [
-                "fight",
-                "brawl"
-            ],
-            "lastplay": 1518384392.614292,
-            "source": "witcher",
-            "filename": "witcher_Igni.ogg"
-        },
-        "BG_Wealthy_Estate.ogg": {
-            "styles": [
-                "city"
-            ],
-            "lastplay": 1518397185.1951642,
-            "source": "BG",
-            "filename": "BG_Wealthy_Estate.ogg"
-        },
-        "wow_Tavern.ogg": {
-            "styles": [
-                "tavern"
-            ],
-            "lastplay": 0,
-            "source": "wow",
-            "filename": "wow_Tavern.ogg"
-        },
-        "witcher_The_Nightingale.ogg": {
-            "styles": [
-                "tavern",
-                "city"
-            ],
-            "lastplay": 1516047587.528623,
-            "source": "witcher",
-            "filename": "witcher_The_Nightingale.ogg"
-        },
-        "witcher_The_Vagabond.ogg": {
+        "skyrim_Before_the_Storm.ogg": {
+            "lastplay": 1518932038.6979597,
+            "filename": "skyrim_Before_the_Storm.ogg",
             "styles": [
                 "nature"
             ],
-            "lastplay": 1516056887.595346,
-            "source": "witcher",
-            "filename": "witcher_The_Vagabond.ogg"
+            "source": "skyrim"
         },
-        "wow_Felwood.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518390690.9939287,
-            "source": "wow",
-            "filename": "wow_Felwood.ogg"
-        },
-        "BG_Amkethran.ogg": {
-            "styles": [
-                "city",
-                "sand"
-            ],
-            "lastplay": 1516047051.0815778,
-            "source": "BG",
-            "filename": "BG_Amkethran.ogg"
-        },
-        "BG_The_Asylum.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518390312.219895,
-            "source": "BG",
-            "filename": "BG_The_Asylum.ogg"
-        },
-        "wow_Legacy.ogg": {
-            "styles": [
-                "sand"
-            ],
-            "lastplay": 0,
-            "source": "wow",
-            "filename": "wow_Legacy.ogg"
-        },
-        "witcher_After_The_Storm.ogg": {
-            "styles": [
-                "nature"
-            ],
-            "lastplay": 1516059187.5616918,
-            "source": "witcher",
-            "filename": "witcher_After_The_Storm.ogg"
-        },
-        "skyrim_Silence_Unbroken.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518390549.0171971,
-            "source": "skyrim",
-            "filename": "skyrim_Silence_Unbroken.ogg"
-        },
-        "witcher_Whispers_Of_Oxenfurt.ogg": {
-            "styles": [
-                "city"
-            ],
-            "lastplay": 1516046082.1027339,
-            "source": "witcher",
-            "filename": "witcher_Whispers_Of_Oxenfurt.ogg"
-        },
-        "skyrim_Dragonsreach.ogg": {
-            "styles": [
-                "prayer"
-            ],
-            "lastplay": 1516044254.7015984,
-            "source": "skyrim",
-            "filename": "skyrim_Dragonsreach.ogg"
-        },
-        "skyrim_Around_the_Fire.ogg": {
-            "styles": [
-                "tavern",
-                "city"
-            ],
-            "lastplay": 1516046519.7952924,
-            "source": "skyrim",
-            "filename": "skyrim_Around_the_Fire.ogg"
-        },
-        "witcher_Commanding_The_Fury.ogg": {
+        "witcher_No_Surrender.ogg": {
+            "lastplay": 1522723962.611511,
+            "filename": "witcher_No_Surrender.ogg",
             "styles": [
                 "fight"
             ],
-            "lastplay": 0,
-            "source": "witcher",
-            "filename": "witcher_Commanding_The_Fury.ogg"
+            "source": "witcher"
         },
-        "BG_Jon_Irenicus_Encounter_Theme.ogg": {
+        "witcher_Family_Matters.ogg": {
+            "lastplay": 1521352842.0987735,
+            "filename": "witcher_Family_Matters.ogg",
             "styles": [
                 "dark"
             ],
-            "lastplay": 1518390849.4191115,
-            "source": "BG",
-            "filename": "BG_Jon_Irenicus_Encounter_Theme.ogg"
+            "source": "witcher"
         },
-        "skyrim_The_Gathering_Storm.ogg": {
+        "witcher_On_Thin_Ice.ogg": {
+            "lastplay": 1521355625.7557542,
+            "filename": "witcher_On_Thin_Ice.ogg",
             "styles": [
-                "nature"
-            ],
-            "lastplay": 1516058829.568612,
-            "source": "skyrim",
-            "filename": "skyrim_The_Gathering_Storm.ogg"
-        },
-        "BG_Dungeon_Battle_2.ogg": {
-            "styles": [
+                "malefique",
                 "fight"
             ],
-            "lastplay": 0,
-            "source": "BG",
-            "filename": "BG_Dungeon_Battle_2.ogg"
+            "source": "witcher"
         },
-        "skyrim_The_City_Gates.ogg": {
+        "BG_Romance_2.ogg": {
+            "lastplay": 1518931079.6119747,
+            "filename": "BG_Romance_2.ogg",
             "styles": [
-                "nature",
                 "city"
             ],
-            "lastplay": 1516060121.665955,
-            "source": "skyrim",
-            "filename": "skyrim_The_City_Gates.ogg"
+            "source": "BG"
         },
-        "witcher_I_Name_Thee_Dea_And_Embrace_Thee_As_My_Daughter.ogg": {
+        "witcher_Spikeroog.ogg": {
+            "lastplay": 1518928764.0208988,
+            "filename": "witcher_Spikeroog.ogg",
             "styles": [
                 "nature"
             ],
-            "lastplay": 1516055841.761727,
-            "source": "witcher",
-            "filename": "witcher_I_Name_Thee_Dea_And_Embrace_Thee_As_My_Daughter.ogg"
+            "source": "witcher"
+        },
+        "witcher_Words_On_Wind.ogg": {
+            "lastplay": 1518929345.3992457,
+            "filename": "witcher_Words_On_Wind.ogg",
+            "styles": [
+                "nature"
+            ],
+            "source": "witcher"
         },
         "witcher_At_War.ogg": {
+            "lastplay": 1518938249.814905,
+            "filename": "witcher_At_War.ogg",
             "styles": [
                 "fight"
             ],
-            "lastplay": 0,
-            "source": "witcher",
-            "filename": "witcher_At_War.ogg"
+            "source": "witcher"
         },
-        "witcher_Hjalmars_Axe.ogg": {
+        "BG_Gaelan_Bayle_Sailing.ogg": {
+            "lastplay": 1521355445.7607603,
+            "filename": "BG_Gaelan_Bayle_Sailing.ogg",
             "styles": [
-                "city",
+                "dark"
+            ],
+            "source": "BG"
+        },
+        "skyrim_Silence_Unbroken.ogg": {
+            "lastplay": 1521355520.9304495,
+            "filename": "skyrim_Silence_Unbroken.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "skyrim"
+        },
+        "wow_Echoes_of_the_Past.ogg": {
+            "lastplay": 1518929230.8573525,
+            "filename": "wow_Echoes_of_the_Past.ogg",
+            "styles": [
+                "nature"
+            ],
+            "source": "wow"
+        },
+        "hearth_Pull_up_a_Chair.ogg": {
+            "lastplay": 1518921849.502224,
+            "filename": "hearth_Pull_up_a_Chair.ogg",
+            "styles": [
+                "tavern",
                 "brawl"
             ],
-            "lastplay": 1516045837.3314514,
-            "source": "witcher",
-            "filename": "witcher_Hjalmars_Axe.ogg"
+            "source": "hearth"
         },
-        "witcher_The_Trail.ogg": {
-            "styles": [
-                "fight"
-            ],
-            "lastplay": 0,
-            "source": "witcher",
-            "filename": "witcher_The_Trail.ogg"
-        },
-        "BG_Nightmare_in_the_Docks.ogg": {
+        "BG_The_Bad.ogg": {
+            "lastplay": 1518938788.1278553,
+            "filename": "BG_The_Bad.ogg",
             "styles": [
                 "dark"
             ],
-            "lastplay": 1518394066.1307907,
-            "source": "BG",
-            "filename": "BG_Nightmare_in_the_Docks.ogg"
+            "source": "BG"
         },
-        "BG_Asylum_Journey.ogg": {
-            "styles": [
-                "dark",
-                "fight"
-            ],
-            "lastplay": 1518392042.7144494,
-            "source": "BG",
-            "filename": "BG_Asylum_Journey.ogg"
-        },
-        "skyrim_Standing_Stones.ogg": {
+        "wow_Graveyard.ogg": {
+            "lastplay": 1518937447.2433422,
+            "filename": "wow_Graveyard.ogg",
             "styles": [
                 "dark"
             ],
-            "lastplay": 1518395102.696326,
-            "source": "skyrim",
-            "filename": "skyrim_Standing_Stones.ogg"
+            "source": "wow"
         },
-        "BG_City_Battle_1.ogg": {
+        "BG_Romance_1.ogg": {
+            "lastplay": 1515811541.8741896,
+            "filename": "BG_Romance_1.ogg",
             "styles": [
-                "fight"
+                "romance"
             ],
-            "lastplay": 0,
-            "source": "BG",
-            "filename": "BG_City_Battle_1.ogg"
+            "source": "BG"
         },
-        "BG_Anomen_Romance.ogg": {
+        "skyrim_A_Winter's_Tale.ogg": {
+            "lastplay": 1518922093.1675267,
+            "filename": "skyrim_A_Winter's_Tale.ogg",
             "styles": [
+                "tavern",
                 "city"
             ],
-            "lastplay": 1516046709.563976,
-            "source": "BG",
-            "filename": "BG_Anomen_Romance.ogg"
+            "source": "skyrim"
         },
-        "hearth_Heroes_of_Warcraft.ogg": {
+        "BG_Dorn_the_Punisher.ogg": {
+            "lastplay": 1515811554.7928534,
+            "filename": "BG_Dorn_the_Punisher.ogg",
             "styles": [
                 "malefique"
             ],
-            "lastplay": 1516043454.3211553,
-            "source": "hearth",
-            "filename": "hearth_Heroes_of_Warcraft.ogg"
+            "source": "BG"
         },
-        "wow_Ruins.ogg": {
+        "witcher_Witch_Hunters.ogg": {
+            "lastplay": 1521352948.0958414,
+            "filename": "witcher_Witch_Hunters.ogg",
             "styles": [
                 "dark"
             ],
-            "lastplay": 1518394687.8180802,
-            "source": "wow",
-            "filename": "wow_Ruins.ogg"
-        },
-        "wow_Thunder_Bluff.ogg": {
-            "styles": [
-                "sand"
-            ],
-            "lastplay": 0,
-            "source": "wow",
-            "filename": "wow_Thunder_Bluff.ogg"
-        },
-        "skyrim_Tooth_and_Claw.ogg": {
-            "styles": [
-                "hurry",
-                "fight"
-            ],
-            "lastplay": 0,
-            "source": "skyrim",
-            "filename": "skyrim_Tooth_and_Claw.ogg"
+            "source": "witcher"
         },
         "skyrim_Dragonborn.ogg": {
+            "lastplay": 1518935489.045296,
+            "filename": "skyrim_Dragonborn.ogg",
             "styles": [
                 "intro",
                 "fight",
                 "epic"
             ],
-            "lastplay": 1518398155.7372236,
-            "source": "skyrim",
-            "filename": "skyrim_Dragonborn.ogg"
-        },
-        "BG_Shadow_Battle.ogg": {
-            "styles": [
-                "fight"
-            ],
-            "lastplay": 0,
-            "source": "BG",
-            "filename": "BG_Shadow_Battle.ogg"
-        },
-        "wow_Teldrassil.ogg": {
-            "styles": [
-                "nature"
-            ],
-            "lastplay": 1516059699.846507,
-            "source": "wow",
-            "filename": "wow_Teldrassil.ogg"
-        },
-        "BG_Rendezvous_at_Dusk.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518392729.3352852,
-            "source": "BG",
-            "filename": "BG_Rendezvous_at_Dusk.ogg"
-        },
-        "BG_Astral_Prison.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518394350.9459739,
-            "source": "BG",
-            "filename": "BG_Astral_Prison.ogg"
-        },
-        "witcher_Bonnie_At_Morn.ogg": {
-            "styles": [
-                "nature"
-            ],
-            "lastplay": 1516056407.9344623,
-            "source": "witcher",
-            "filename": "witcher_Bonnie_At_Morn.ogg"
-        },
-        "witcher_The_Possesion_Of_Jarl_Udalryk.ogg": {
-            "styles": [
-                "fight"
-            ],
-            "lastplay": 1518384516.5916674,
-            "source": "witcher",
-            "filename": "witcher_The_Possesion_Of_Jarl_Udalryk.ogg"
-        },
-        "BG_Main_title.ogg": {
-            "styles": [
-                "intro"
-            ],
-            "lastplay": 1518398391.2359035,
-            "source": "BG",
-            "filename": "BG_Main_title.ogg"
-        },
-        "skyrim_Beneath_the_Ice.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518391578.1713398,
-            "source": "skyrim",
-            "filename": "skyrim_Beneath_the_Ice.ogg"
-        },
-        "BG_Gaelan_Bayle_Sailing.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518390473.8576264,
-            "source": "BG",
-            "filename": "BG_Gaelan_Bayle_Sailing.ogg"
-        },
-        "witcher_The_Tree_When_We_Sat_Once.ogg": {
-            "styles": [
-                "city"
-            ],
-            "lastplay": 1518396941.2631764,
-            "source": "witcher",
-            "filename": "witcher_The_Tree_When_We_Sat_Once.ogg"
-        },
-        "skyrim_Journey's_End.ogg": {
-            "styles": [
-                "nature"
-            ],
-            "lastplay": 1518396496.3082743,
-            "source": "skyrim",
-            "filename": "skyrim_Journey's_End.ogg"
-        },
-        "BG_The_Mines_of_Clan_Deepstone.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518393543.7073474,
-            "source": "BG",
-            "filename": "BG_The_Mines_of_Clan_Deepstone.ogg"
-        },
-        "BG_Bhaal_Spawn_Battle.ogg": {
-            "styles": [
-                "fight"
-            ],
-            "lastplay": 0,
-            "source": "BG",
-            "filename": "BG_Bhaal_Spawn_Battle.ogg"
-        },
-        "witcher_Farewell_Old_Friend.ogg": {
-            "styles": [
-                "nature"
-            ],
-            "lastplay": 1516057451.7847264,
-            "source": "witcher",
-            "filename": "witcher_Farewell_Old_Friend.ogg"
-        },
-        "wow_Temple.ogg": {
-            "styles": [
-                "nature",
-                "dark"
-            ],
-            "lastplay": 1518394990.3957973,
-            "source": "wow",
-            "filename": "wow_Temple.ogg"
-        },
-        "witcher_In_The_Giants_Shadow.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518391408.0612752,
-            "source": "witcher",
-            "filename": "witcher_In_The_Giants_Shadow.ogg"
-        },
-        "wow_Seasons_of_War.ogg": {
-            "styles": [
-                "malefique"
-            ],
-            "lastplay": 0,
-            "source": "wow",
-            "filename": "wow_Seasons_of_War.ogg"
-        },
-        "witcher_The_Hunters_Path.ogg": {
-            "styles": [
-                "nature",
-                "dark"
-            ],
-            "lastplay": 1518390140.2776625,
-            "source": "witcher",
-            "filename": "witcher_The_Hunters_Path.ogg"
-        },
-        "BG_Saradush_Under_Siege.ogg": {
-            "styles": [
-                "malefique"
-            ],
-            "lastplay": 0,
-            "source": "BG",
-            "filename": "BG_Saradush_Under_Siege.ogg"
-        },
-        "witcher_Yes_I_Do.ogg": {
-            "styles": [
-                "romance"
-            ],
-            "lastplay": 1515811543.4615793,
-            "source": "witcher",
-            "filename": "witcher_Yes_I_Do.ogg"
-        },
-        "BG_Mountain_Battle_1.ogg": {
-            "styles": [
-                "fight"
-            ],
-            "lastplay": 0,
-            "source": "BG",
-            "filename": "BG_Mountain_Battle_1.ogg"
-        },
-        "BG_City_Gates.ogg": {
-            "styles": [
-                "city"
-            ],
-            "lastplay": 1516046436.7201838,
-            "source": "BG",
-            "filename": "BG_City_Gates.ogg"
-        },
-        "wow_The_Undercity.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518391893.9580536,
-            "source": "wow",
-            "filename": "wow_The_Undercity.ogg"
-        },
-        "BG_Our_Haven_is_Lost.ogg": {
-            "styles": [
-                "nature"
-            ],
-            "lastplay": 1516058761.7492187,
-            "source": "BG",
-            "filename": "BG_Our_Haven_is_Lost.ogg"
-        },
-        "skyrim_Awake.ogg": {
-            "styles": [
-                "city"
-            ],
-            "lastplay": 1516045921.3549464,
-            "source": "skyrim",
-            "filename": "skyrim_Awake.ogg"
-        },
-        "BG_Amongst_the_Sahuagin.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518392946.1001198,
-            "source": "BG",
-            "filename": "BG_Amongst_the_Sahuagin.ogg"
-        },
-        "skyrim_Shadows_and_Echoes.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518393082.0348055,
-            "source": "skyrim",
-            "filename": "skyrim_Shadows_and_Echoes.ogg"
-        },
-        "BG_City_Battle_2.ogg": {
-            "styles": [
-                "fight"
-            ],
-            "lastplay": 1516055799.7871845,
-            "source": "BG",
-            "filename": "BG_City_Battle_2.ogg"
-        },
-        "wow_Orgrimmar.ogg": {
-            "styles": [
-                "malefique"
-            ],
-            "lastplay": 0,
-            "source": "wow",
-            "filename": "wow_Orgrimmar.ogg"
-        },
-        "BG_Sendais_Enclave.ogg": {
-            "styles": [
-                "dark",
-                "nature"
-            ],
-            "lastplay": 1518393704.8269157,
-            "source": "BG",
-            "filename": "BG_Sendais_Enclave.ogg"
-        },
-        "witcher_City_Of_Intrigues.ogg": {
-            "styles": [
-                "fight",
-                "brawl"
-            ],
-            "lastplay": 0,
-            "source": "witcher",
-            "filename": "witcher_City_Of_Intrigues.ogg"
-        },
-        "witcher_No_Surrender.ogg": {
-            "styles": [
-                "fight"
-            ],
-            "lastplay": 0,
-            "source": "witcher",
-            "filename": "witcher_No_Surrender.ogg"
-        },
-        "BG_Amaunator_Temple.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518390371.5573545,
-            "source": "BG",
-            "filename": "BG_Amaunator_Temple.ogg"
-        },
-        "BG_Khalids_Death.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518394549.7785206,
-            "source": "BG",
-            "filename": "BG_Khalids_Death.ogg"
-        },
-        "wow_Duskwood.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518396083.4869125,
-            "source": "wow",
-            "filename": "wow_Duskwood.ogg"
-        },
-        "skyrim_From_Past_to_Present.ogg": {
-            "styles": [
-                "nature"
-            ],
-            "lastplay": 1516059328.8012118,
-            "source": "skyrim",
-            "filename": "skyrim_From_Past_to_Present.ogg"
-        },
-        "BG_Neeras_Final_Confrontation.ogg": {
-            "styles": [
-                "fight"
-            ],
-            "lastplay": 0,
-            "source": "BG",
-            "filename": "BG_Neeras_Final_Confrontation.ogg"
-        },
-        "BG_Plains_Battle_2.ogg": {
-            "styles": [
-                "fight"
-            ],
-            "lastplay": 0,
-            "source": "BG",
-            "filename": "BG_Plains_Battle_2.ogg"
-        },
-        "BG_The_Bad.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518392632.0531886,
-            "source": "BG",
-            "filename": "BG_The_Bad.ogg"
-        },
-        "skyrim_Imperial_Throne.ogg": {
-            "styles": [
-                "dark",
-                "nature"
-            ],
-            "lastplay": 1518392489.117556,
-            "source": "skyrim",
-            "filename": "skyrim_Imperial_Throne.ogg"
-        },
-        "hearth_Pull_up_a_Chair.ogg": {
-            "styles": [
-                "tavern",
-                "brawl"
-            ],
-            "lastplay": 0,
-            "source": "hearth",
-            "filename": "hearth_Pull_up_a_Chair.ogg"
-        },
-        "witcher_Widow-Maker.ogg": {
-            "styles": [
-                "fight"
-            ],
-            "lastplay": 0,
-            "source": "witcher",
-            "filename": "witcher_Widow-Maker.ogg"
-        },
-        "BG_The_Heretic_Temple.ogg": {
-            "styles": [
-                "dark",
-                "sand"
-            ],
-            "lastplay": 1518391270.3841908,
-            "source": "BG",
-            "filename": "BG_The_Heretic_Temple.ogg"
-        },
-        "skyrim_Tundra.ogg": {
-            "styles": [
-                "nature"
-            ],
-            "lastplay": 1516058184.278501,
-            "source": "skyrim",
-            "filename": "skyrim_Tundra.ogg"
-        },
-        "BG_Resurrection_Gorge.ogg": {
-            "styles": [
-                "nature",
-                "dark"
-            ],
-            "lastplay": 1518392416.3514242,
-            "source": "BG",
-            "filename": "BG_Resurrection_Gorge.ogg"
-        },
-        "skyrim_Before_the_Storm.ogg": {
-            "styles": [
-                "nature"
-            ],
-            "lastplay": 1516059632.4132323,
-            "source": "skyrim",
-            "filename": "skyrim_Before_the_Storm.ogg"
-        },
-        "BG_The_Slums.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518393407.4845335,
-            "source": "BG",
-            "filename": "BG_The_Slums.ogg"
-        },
-        "witcher_When_No_Man_Has_Gone_Before.ogg": {
-            "styles": [
-                "nature"
-            ],
-            "lastplay": 1516057262.1458611,
-            "source": "witcher",
-            "filename": "witcher_When_No_Man_Has_Gone_Before.ogg"
-        },
-        "BG_Forest_Battle_2.ogg": {
-            "styles": [
-                "fight"
-            ],
-            "lastplay": 0,
-            "source": "BG",
-            "filename": "BG_Forest_Battle_2.ogg"
-        },
-        "skyrim_Steel_on_Steel.ogg": {
-            "styles": [
-                "fight"
-            ],
-            "lastplay": 1518384148.580802,
-            "source": "skyrim",
-            "filename": "skyrim_Steel_on_Steel.ogg"
-        },
-        "BG_Melissans_Theme.ogg": {
-            "styles": [
-                "nature"
-            ],
-            "lastplay": 1516058655.384704,
-            "source": "BG",
-            "filename": "BG_Melissans_Theme.ogg"
-        },
-        "hearth_Playing_with_a_Full_Deck.ogg": {
-            "styles": [
-                "city"
-            ],
-            "lastplay": 1518396757.5928655,
-            "source": "hearth",
-            "filename": "hearth_Playing_with_a_Full_Deck.ogg"
-        },
-        "witcher_Blood_On_The_Cobblestones.ogg": {
-            "styles": [
-                "fight"
-            ],
-            "lastplay": 0,
-            "source": "witcher",
-            "filename": "witcher_Blood_On_The_Cobblestones.ogg"
-        },
-        "BG_Dorn_the_Punisher.ogg": {
-            "styles": [
-                "malefique"
-            ],
-            "lastplay": 1515811554.7928534,
-            "source": "BG",
-            "filename": "BG_Dorn_the_Punisher.ogg"
-        },
-        "witcher_Like_A_Wounded_Animal.ogg": {
-            "styles": [
-                "fight"
-            ],
-            "lastplay": 0,
-            "source": "witcher",
-            "filename": "witcher_Like_A_Wounded_Animal.ogg"
-        },
-        "skyrim_Watch_the_Skies.ogg": {
-            "styles": [
-                "fight"
-            ],
-            "lastplay": 1518384251.7283492,
-            "source": "skyrim",
-            "filename": "skyrim_Watch_the_Skies.ogg"
-        },
-        "BG_The_Hidden_Refuge.ogg": {
-            "styles": [
-                "nature"
-            ],
-            "lastplay": 1516056342.5499163,
-            "source": "BG",
-            "filename": "BG_The_Hidden_Refuge.ogg"
-        },
-        "BG_The_Great_Tree.ogg": {
-            "styles": [
-                "nature"
-            ],
-            "lastplay": 1516055922.18517,
-            "source": "BG",
-            "filename": "BG_The_Great_Tree.ogg"
-        },
-        "BG_The_Copper_Coronet.ogg": {
-            "styles": [
-                "tavern",
-                "city"
-            ],
-            "lastplay": 1516054598.6783507,
-            "source": "BG",
-            "filename": "BG_The_Copper_Coronet.ogg"
-        },
-        "wow_The_Shaping_of_the_World.ogg": {
-            "styles": [
-                "hurry"
-            ],
-            "lastplay": 0,
-            "source": "wow",
-            "filename": "wow_The_Shaping_of_the_World.ogg"
-        },
-        "witcher_Conjunction_Of_The_Spheres.ogg": {
-            "styles": [
-                "malefique"
-            ],
-            "lastplay": 0,
-            "source": "witcher",
-            "filename": "witcher_Conjunction_Of_The_Spheres.ogg"
-        },
-        "skyrim_Out_of_the_Cold.ogg": {
-            "styles": [
-                "tavern"
-            ],
-            "lastplay": 0,
-            "source": "skyrim",
-            "filename": "skyrim_Out_of_the_Cold.ogg"
-        },
-        "wow_Graveyard.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518391338.9334683,
-            "source": "wow",
-            "filename": "wow_Graveyard.ogg"
-        },
-        "BG_Trademeet.ogg": {
-            "styles": [
-                "city"
-            ],
-            "lastplay": 1516047526.8879485,
-            "source": "BG",
-            "filename": "BG_Trademeet.ogg"
-        },
-        "witcher_Welcome_Imlerith.ogg": {
-            "styles": [
-                "fight",
-                "malefique"
-            ],
-            "lastplay": 0,
-            "source": "witcher",
-            "filename": "witcher_Welcome_Imlerith.ogg"
-        },
-        "BG_Dragomirs_Embrace.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518390996.0183213,
-            "source": "BG",
-            "filename": "BG_Dragomirs_Embrace.ogg"
-        },
-        "BG_The_Good.ogg": {
-            "styles": [
-                "city"
-            ],
-            "lastplay": 1518397687.7000988,
-            "source": "BG",
-            "filename": "BG_The_Good.ogg"
-        },
-        "witcher_Cloak_And_Dagger.ogg": {
-            "styles": [
-                "hurry",
-                "city"
-            ],
-            "lastplay": 1516045760.7660358,
-            "source": "witcher",
-            "filename": "witcher_Cloak_And_Dagger.ogg"
+            "source": "skyrim"
         },
         "wow_Stranglethorn_Vale.ogg": {
+            "lastplay": 1521354285.6870356,
+            "filename": "wow_Stranglethorn_Vale.ogg",
             "styles": [
                 "dark",
                 "sand",
                 "nature"
             ],
-            "lastplay": 1518393812.4849875,
-            "source": "wow",
-            "filename": "wow_Stranglethorn_Vale.ogg"
-        },
-        "wow_Shimmering_Flats.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518395765.7488532,
-            "source": "wow",
-            "filename": "wow_Shimmering_Flats.ogg"
-        },
-        "BG_The_Druid_Grove.ogg": {
-            "styles": [
-                "nature"
-            ],
-            "lastplay": 1516057885.111158,
-            "source": "BG",
-            "filename": "BG_The_Druid_Grove.ogg"
-        },
-        "skyrim_The_Jerall_Mountains.ogg": {
-            "styles": [
-                "nature"
-            ],
-            "lastplay": 1516056142.9491377,
-            "source": "skyrim",
-            "filename": "skyrim_The_Jerall_Mountains.ogg"
-        },
-        "witcher_The_Wolf_And_The_Swallow.ogg": {
-            "styles": [
-                "dark",
-                "nature"
-            ],
-            "lastplay": 1518394765.257072,
-            "source": "witcher",
-            "filename": "witcher_The_Wolf_And_The_Swallow.ogg"
-        },
-        "witcher_The_Big_Four.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518391063.507989,
-            "source": "witcher",
-            "filename": "witcher_The_Big_Four.ogg"
-        },
-        "witcher_Fate_Calls.ogg": {
-            "styles": [
-                "city"
-            ],
-            "lastplay": 1516045841.484808,
-            "source": "witcher",
-            "filename": "witcher_Fate_Calls.ogg"
-        },
-        "skyrim_A_Winter's_Tale.ogg": {
-            "styles": [
-                "tavern",
-                "city"
-            ],
-            "lastplay": 1516046236.8888705,
-            "source": "skyrim",
-            "filename": "skyrim_A_Winter's_Tale.ogg"
-        },
-        "BG_The_Planar_Sphere.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518395054.9980738,
-            "source": "BG",
-            "filename": "BG_The_Planar_Sphere.ogg"
-        },
-        "witcher_Family_Matters.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518395499.0935845,
-            "source": "witcher",
-            "filename": "witcher_Family_Matters.ogg"
-        },
-        "skyrim_Blood_and_Steel.ogg": {
-            "styles": [
-                "malefique"
-            ],
-            "lastplay": 0,
-            "source": "skyrim",
-            "filename": "skyrim_Blood_and_Steel.ogg"
-        },
-        "skyrim_Far_Horizons.ogg": {
-            "styles": [
-                "nature"
-            ],
-            "lastplay": 1516056556.3627024,
-            "source": "skyrim",
-            "filename": "skyrim_Far_Horizons.ogg"
-        },
-        "BG_The_Vulgar_Monkey_Tavern.ogg": {
-            "styles": [
-                "tavern"
-            ],
-            "lastplay": 0,
-            "source": "BG",
-            "filename": "BG_The_Vulgar_Monkey_Tavern.ogg"
-        },
-        "witcher_Trial_Of_The_Grasses.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518391156.4272711,
-            "source": "witcher",
-            "filename": "witcher_Trial_Of_The_Grasses.ogg"
-        },
-        "BG_Irenicus_Final_Battle.ogg": {
-            "styles": [
-                "fight"
-            ],
-            "lastplay": 0,
-            "source": "BG",
-            "filename": "BG_Irenicus_Final_Battle.ogg"
-        },
-        "BG_Raid_on_the_Red_Wizards.ogg": {
-            "styles": [
-                "fight"
-            ],
-            "lastplay": 0,
-            "source": "BG",
-            "filename": "BG_Raid_on_the_Red_Wizards.ogg"
-        },
-        "BG_Korkorrans_Lair.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518394921.1110387,
-            "source": "BG",
-            "filename": "BG_Korkorrans_Lair.ogg"
-        },
-        "BG_The_Shadow_Portal.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518396445.4652038,
-            "source": "BG",
-            "filename": "BG_The_Shadow_Portal.ogg"
-        },
-        "skyrim_The_Bannered_Mare.ogg": {
-            "styles": [
-                "city",
-                "tavern"
-            ],
-            "lastplay": 1518397457.270984,
-            "source": "skyrim",
-            "filename": "skyrim_The_Bannered_Mare.ogg"
-        },
-        "witcher_Aen_Seidhe.ogg": {
-            "styles": [
-                "nature"
-            ],
-            "lastplay": 1516055986.8438652,
-            "source": "witcher",
-            "filename": "witcher_Aen_Seidhe.ogg"
-        },
-        "BG_The_Pirate_Isle.ogg": {
-            "styles": [
-                "tavern",
-                "city"
-            ],
-            "lastplay": 1516046994.8617258,
-            "source": "BG",
-            "filename": "BG_The_Pirate_Isle.ogg"
-        },
-        "BG_Taverns.ogg": {
-            "styles": [
-                "city",
-                "tavern"
-            ],
-            "lastplay": 1518397605.4003763,
-            "source": "BG",
-            "filename": "BG_Taverns.ogg"
-        },
-        "BG_Temple_of_Helm.ogg": {
-            "styles": [
-                "prayer"
-            ],
-            "lastplay": 1516044624.0874379,
-            "source": "BG",
-            "filename": "BG_Temple_of_Helm.ogg"
-        },
-        "witcher_Words_On_Wind.ogg": {
-            "styles": [
-                "nature"
-            ],
-            "lastplay": 1516058260.3226178,
-            "source": "witcher",
-            "filename": "witcher_Words_On_Wind.ogg"
-        },
-        "BG_The_Beholder_Dungeon.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518393221.503649,
-            "source": "BG",
-            "filename": "BG_The_Beholder_Dungeon.ogg"
-        },
-        "BG_Storming_the_Silver_Heaven.ogg": {
-            "styles": [
-                "fight"
-            ],
-            "lastplay": 0,
-            "source": "BG",
-            "filename": "BG_Storming_the_Silver_Heaven.ogg"
-        },
-        "wow_Elwynn_Forest.ogg": {
-            "styles": [
-                "nature"
-            ],
-            "lastplay": 1516059002.9412723,
-            "source": "wow",
-            "filename": "wow_Elwynn_Forest.ogg"
-        },
-        "BG_Forest_Battle_1.ogg": {
-            "styles": [
-                "fight"
-            ],
-            "lastplay": 0,
-            "source": "BG",
-            "filename": "BG_Forest_Battle_1.ogg"
-        },
-        "skyrim_One_They_Fear.ogg": {
-            "styles": [
-                "fight",
-                "intro",
-                "epic"
-            ],
-            "lastplay": 1518398514.8948445,
-            "source": "skyrim",
-            "filename": "skyrim_One_They_Fear.ogg"
+            "source": "wow"
         },
         "BG_The_Mana_Forge.ogg": {
+            "lastplay": 1521352182.3809524,
+            "filename": "BG_The_Mana_Forge.ogg",
             "styles": [
                 "dark"
             ],
-            "lastplay": 1518394618.5142412,
-            "source": "BG",
-            "filename": "BG_The_Mana_Forge.ogg"
+            "source": "BG"
         },
-        "witcher_Emhyr_Var_Emreis.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518392167.9736412,
-            "source": "witcher",
-            "filename": "witcher_Emhyr_Var_Emreis.ogg"
-        },
-        "wow_Lurking.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518391831.92864,
-            "source": "wow",
-            "filename": "wow_Lurking.ogg"
-        },
-        "witcher_A_Story_You_Wont_Believe.ogg": {
-            "styles": [
-                "tavern"
-            ],
-            "lastplay": 1518397723.5738473,
-            "source": "witcher",
-            "filename": "witcher_A_Story_You_Wont_Believe.ogg"
-        },
-        "BG_Melissan_Battle.ogg": {
-            "styles": [
-                "fight"
-            ],
-            "lastplay": 0,
-            "source": "BG",
-            "filename": "BG_Melissan_Battle.ogg"
-        },
-        "witcher_The_Song_Of_The_Sword-Dancer.ogg": {
-            "styles": [
-                "fight"
-            ],
-            "lastplay": 0,
-            "source": "witcher",
-            "filename": "witcher_The_Song_Of_The_Sword-Dancer.ogg"
-        },
-        "skyrim_A_Chance_Meeting.ogg": {
+        "witcher_Fate_Calls.ogg": {
+            "lastplay": 1518930301.306978,
+            "filename": "witcher_Fate_Calls.ogg",
             "styles": [
                 "city"
             ],
-            "lastplay": 1518397267.3180513,
-            "source": "skyrim",
-            "filename": "skyrim_A_Chance_Meeting.ogg"
+            "source": "witcher"
         },
-        "witcher_The_Shrieker_Contract.ogg": {
+        "BG_DeArnise_Hold_Besieged.ogg": {
+            "lastplay": 0,
+            "filename": "BG_DeArnise_Hold_Besieged.ogg",
             "styles": [
-                "fight"
+                "epic"
             ],
-            "lastplay": 1516148157.1647065,
-            "source": "witcher",
-            "filename": "witcher_The_Shrieker_Contract.ogg"
+            "source": "BG"
         },
-        "witcher_Spikeroog.ogg": {
-            "styles": [
-                "nature"
-            ],
-            "lastplay": 1516057699.602053,
-            "source": "witcher",
-            "filename": "witcher_Spikeroog.ogg"
-        },
-        "BG_Dream.ogg": {
+        "BG_Amongst_the_Sahuagin.ogg": {
+            "lastplay": 1518938954.6849077,
+            "filename": "BG_Amongst_the_Sahuagin.ogg",
             "styles": [
                 "dark"
             ],
-            "lastplay": 1518393611.56132,
-            "source": "BG",
-            "filename": "BG_Dream.ogg"
+            "source": "BG"
         },
-        "witcher_Geralt_Of_Rivia.ogg": {
+        "wow_Lurking.ogg": {
+            "lastplay": 1518938466.123431,
+            "filename": "wow_Lurking.ogg",
             "styles": [
-                "epic",
+                "dark"
+            ],
+            "source": "wow"
+        },
+        "BG_Main_title.ogg": {
+            "lastplay": 1518921457.4799745,
+            "filename": "BG_Main_title.ogg",
+            "styles": [
                 "intro"
             ],
-            "lastplay": 1518398709.0876498,
-            "source": "witcher",
-            "filename": "witcher_Geralt_Of_Rivia.ogg"
+            "source": "BG"
         },
-        "skyrim_Frostfall.ogg": {
+        "skyrim_Steel_on_Steel.ogg": {
+            "lastplay": 1518926555.5001657,
+            "filename": "skyrim_Steel_on_Steel.ogg",
             "styles": [
-                "nature"
+                "fight"
             ],
-            "lastplay": 1516057055.86224,
-            "source": "skyrim",
-            "filename": "skyrim_Frostfall.ogg"
+            "source": "skyrim"
         },
         "witcher_Another_Round_For_Everyone.ogg": {
+            "lastplay": 1518935724.4356687,
+            "filename": "witcher_Another_Round_For_Everyone.ogg",
             "styles": [
                 "tavern",
                 "brawl",
                 "fight"
             ],
-            "lastplay": 0,
-            "source": "witcher",
-            "filename": "witcher_Another_Round_For_Everyone.ogg"
+            "source": "witcher"
         },
-        "witcher_On_Thin_Ice.ogg": {
+        "witcher_Bonnie_At_Morn.ogg": {
+            "lastplay": 1518934096.3872116,
+            "filename": "witcher_Bonnie_At_Morn.ogg",
             "styles": [
-                "malefique",
+                "nature"
+            ],
+            "source": "witcher"
+        },
+        "skyrim_From_Past_to_Present.ogg": {
+            "lastplay": 1518931735.076024,
+            "filename": "skyrim_From_Past_to_Present.ogg",
+            "styles": [
+                "nature"
+            ],
+            "source": "skyrim"
+        },
+        "witcher_The_Vagabond.ogg": {
+            "lastplay": 1518934576.0492406,
+            "filename": "witcher_The_Vagabond.ogg",
+            "styles": [
+                "nature"
+            ],
+            "source": "witcher"
+        },
+        "BG_Bhaal_Spawn_Battle.ogg": {
+            "lastplay": 1518925701.9922054,
+            "filename": "BG_Bhaal_Spawn_Battle.ogg",
+            "styles": [
                 "fight"
             ],
+            "source": "BG"
+        },
+        "wow_The_Shaping_of_the_World.ogg": {
             "lastplay": 0,
-            "source": "witcher",
-            "filename": "witcher_On_Thin_Ice.ogg"
+            "filename": "wow_The_Shaping_of_the_World.ogg",
+            "styles": [
+                "hurry"
+            ],
+            "source": "wow"
+        },
+        "BG_Saradush_Under_Siege.ogg": {
+            "lastplay": 0,
+            "filename": "BG_Saradush_Under_Siege.ogg",
+            "styles": [
+                "malefique"
+            ],
+            "source": "BG"
+        },
+        "BG_Wealthy_Estate.ogg": {
+            "lastplay": 1518397185.1951642,
+            "filename": "BG_Wealthy_Estate.ogg",
+            "styles": [
+                "city"
+            ],
+            "source": "BG"
+        },
+        "witcher_When_No_Man_Has_Gone_Before.ogg": {
+            "lastplay": 1518927404.6342077,
+            "filename": "witcher_When_No_Man_Has_Gone_Before.ogg",
+            "styles": [
+                "nature"
+            ],
+            "source": "witcher"
+        },
+        "witcher_Forged_In_Fire.ogg": {
+            "lastplay": 1518936102.2827191,
+            "filename": "witcher_Forged_In_Fire.ogg",
+            "styles": [
+                "fight"
+            ],
+            "source": "witcher"
+        },
+        "skyrim_Imperial_Throne.ogg": {
+            "lastplay": 1521354035.053793,
+            "filename": "skyrim_Imperial_Throne.ogg",
+            "styles": [
+                "dark",
+                "nature"
+            ],
+            "source": "skyrim"
+        },
+        "witcher_The_Wolf_And_The_Swallow.ogg": {
+            "lastplay": 1521354539.4585402,
+            "filename": "witcher_The_Wolf_And_The_Swallow.ogg",
+            "styles": [
+                "dark",
+                "nature"
+            ],
+            "source": "witcher"
+        },
+        "BG_The_Great_Tree.ogg": {
+            "lastplay": 1518933610.6085877,
+            "filename": "BG_The_Great_Tree.ogg",
+            "styles": [
+                "nature"
+            ],
+            "source": "BG"
+        },
+        "skyrim_Tooth_and_Claw.ogg": {
+            "lastplay": 1518936226.126111,
+            "filename": "skyrim_Tooth_and_Claw.ogg",
+            "styles": [
+                "hurry",
+                "fight"
+            ],
+            "source": "skyrim"
+        },
+        "witcher_Blood_On_The_Cobblestones.ogg": {
+            "lastplay": 1518925579.7170599,
+            "filename": "witcher_Blood_On_The_Cobblestones.ogg",
+            "styles": [
+                "fight"
+            ],
+            "source": "witcher"
+        },
+        "BG_Neeras_Final_Confrontation.ogg": {
+            "lastplay": 1518936334.9220536,
+            "filename": "BG_Neeras_Final_Confrontation.ogg",
+            "styles": [
+                "fight"
+            ],
+            "source": "BG"
+        },
+        "wow_Teldrassil.ogg": {
+            "lastplay": 1518932106.104481,
+            "filename": "wow_Teldrassil.ogg",
+            "styles": [
+                "nature"
+            ],
+            "source": "wow"
+        },
+        "BG_Korkorrans_Lair.ogg": {
+            "lastplay": 1521352328.7639077,
+            "filename": "BG_Korkorrans_Lair.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "BG"
         },
         "wow_Legends_of_Azeroth.ogg": {
+            "lastplay": 1518398851.2286186,
+            "filename": "wow_Legends_of_Azeroth.ogg",
             "styles": [
                 "intro",
                 "malefique"
             ],
-            "lastplay": 1518398851.2286186,
-            "source": "wow",
-            "filename": "wow_Legends_of_Azeroth.ogg"
+            "source": "wow"
         },
-        "witcher_Kaer_Morhen.ogg": {
+        "skyrim_Around_the_Fire.ogg": {
+            "lastplay": 1518922293.2194211,
+            "filename": "skyrim_Around_the_Fire.ogg",
             "styles": [
+                "tavern",
                 "city"
             ],
-            "lastplay": 1516045926.6663117,
-            "source": "witcher",
-            "filename": "witcher_Kaer_Morhen.ogg"
+            "source": "skyrim"
         },
-        "skyrim_Caught_off_Guard.ogg": {
+        "wow_Elwynn_Forest.ogg": {
+            "lastplay": 1518930088.1062942,
+            "filename": "wow_Elwynn_Forest.ogg",
             "styles": [
-                "fight"
+                "nature"
             ],
-            "lastplay": 0,
-            "source": "skyrim",
-            "filename": "skyrim_Caught_off_Guard.ogg"
+            "source": "wow"
         },
-        "BG_The_Domain_of_the_Dragon.ogg": {
+        "witcher_Farewell_Old_Friend.ogg": {
+            "lastplay": 1518927594.2575111,
+            "filename": "witcher_Farewell_Old_Friend.ogg",
             "styles": [
-                "fight",
-                "malefique"
+                "nature"
             ],
-            "lastplay": 0,
-            "source": "BG",
-            "filename": "BG_The_Domain_of_the_Dragon.ogg"
+            "source": "witcher"
         },
-        "wow_Sacred.ogg": {
-            "styles": [
-                "prayer"
-            ],
-            "lastplay": 1516058206.6417859,
-            "source": "wow",
-            "filename": "wow_Sacred.ogg"
-        },
-        "skyrim_Ancient_Stones.ogg": {
-            "styles": [
-                "city"
-            ],
-            "lastplay": 1516047241.7069843,
-            "source": "skyrim",
-            "filename": "skyrim_Ancient_Stones.ogg"
-        },
-        "BG_Underdark.ogg": {
-            "styles": [
-                "dark",
-                "fight"
-            ],
-            "lastplay": 1518394169.02249,
-            "source": "BG",
-            "filename": "BG_Underdark.ogg"
-        },
-        "BG_Claw_of_the_Black_Leopard.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518393009.470458,
-            "source": "BG",
-            "filename": "BG_Claw_of_the_Black_Leopard.ogg"
-        },
-        "BG_Waukeens_Promenade.ogg": {
+        "BG_Amkethran.ogg": {
+            "lastplay": 1518930964.7136047,
+            "filename": "BG_Amkethran.ogg",
             "styles": [
                 "city",
                 "sand"
             ],
-            "lastplay": 1518397096.7834594,
-            "source": "BG",
-            "filename": "BG_Waukeens_Promenade.ogg"
+            "source": "BG"
         },
-        "BG_Mountain_Battle_2.ogg": {
-            "styles": [
-                "fight"
-            ],
-            "lastplay": 0,
-            "source": "BG",
-            "filename": "BG_Mountain_Battle_2.ogg"
-        },
-        "BG_Forest_of_Tethyr.ogg": {
+        "BG_The_Druid_Grove.ogg": {
+            "lastplay": 1518928949.4851353,
+            "filename": "BG_The_Druid_Grove.ogg",
             "styles": [
                 "nature"
             ],
-            "lastplay": 1516057624.6999269,
-            "source": "BG",
-            "filename": "BG_Forest_of_Tethyr.ogg"
-        },
-        "BG_Plains_Battle_1.ogg": {
-            "styles": [
-                "fight"
-            ],
-            "lastplay": 0,
-            "source": "BG",
-            "filename": "BG_Plains_Battle_1.ogg"
-        },
-        "BG_Red_Dragon_Battle.ogg": {
-            "styles": [
-                "fight"
-            ],
-            "lastplay": 0,
-            "source": "BG",
-            "filename": "BG_Red_Dragon_Battle.ogg"
-        },
-        "BG_DeArnise_Hold_Besieged.ogg": {
-            "styles": [
-                "epic"
-            ],
-            "lastplay": 0,
-            "source": "BG",
-            "filename": "BG_DeArnise_Hold_Besieged.ogg"
-        },
-        "witcher_The_Hunt_Is_Coming.ogg": {
-            "styles": [
-                "malefique",
-                "fight"
-            ],
-            "lastplay": 0,
-            "source": "witcher",
-            "filename": "witcher_The_Hunt_Is_Coming.ogg"
-        },
-        "wow_Echoes_of_the_Past.ogg": {
-            "styles": [
-                "nature"
-            ],
-            "lastplay": 1516058216.47575,
-            "source": "wow",
-            "filename": "wow_Echoes_of_the_Past.ogg"
-        },
-        "wow_Moonfall.ogg": {
-            "styles": [
-                "nature"
-            ],
-            "lastplay": 1516059278.5097196,
-            "source": "wow",
-            "filename": "wow_Moonfall.ogg"
-        },
-        "BG_Pocket_Plane.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518394436.3697946,
-            "source": "BG",
-            "filename": "BG_Pocket_Plane.ogg"
-        },
-        "BG_Dreams_of_Bhaal.ogg": {
-            "styles": [
-                "dark"
-            ],
-            "lastplay": 1518392317.400803,
-            "source": "BG",
-            "filename": "BG_Dreams_of_Bhaal.ogg"
+            "source": "BG"
         },
         "witcher_Drink_Up_Theres_More.ogg": {
+            "lastplay": 1518396660.8328338,
+            "filename": "witcher_Drink_Up_Theres_More.ogg",
             "styles": [
                 "hurry",
                 "city"
             ],
-            "lastplay": 1518396660.8328338,
-            "source": "witcher",
-            "filename": "witcher_Drink_Up_Theres_More.ogg"
+            "source": "witcher"
         },
-        "witcher_Wake_Up_Ciri.ogg": {
-            "styles": [
-                "nature"
-            ],
-            "lastplay": 1516058428.5552132,
-            "source": "witcher",
-            "filename": "witcher_Wake_Up_Ciri.ogg"
-        },
-        "witcher_King_Brans_Final_Voyage.ogg": {
-            "styles": [
-                "nature"
-            ],
-            "lastplay": 1516058522.9847732,
-            "source": "witcher",
-            "filename": "witcher_King_Brans_Final_Voyage.ogg"
-        },
-        "BG_Abazigals_Enclave.ogg": {
-            "styles": [
-                "malefique"
-            ],
-            "lastplay": 0,
-            "source": "BG",
-            "filename": "BG_Abazigals_Enclave.ogg"
-        },
-        "witcher_Nemesis.ogg": {
-            "styles": [
-                "fight"
-            ],
-            "lastplay": 0,
-            "source": "witcher",
-            "filename": "witcher_Nemesis.ogg"
-        },
-        "BG_Romance_1.ogg": {
-            "styles": [
-                "romance"
-            ],
-            "lastplay": 1515811541.8741896,
-            "source": "BG",
-            "filename": "BG_Romance_1.ogg"
-        },
-        "witcher_Forged_In_Fire.ogg": {
-            "styles": [
-                "fight"
-            ],
-            "lastplay": 0,
-            "source": "witcher",
-            "filename": "witcher_Forged_In_Fire.ogg"
-        },
-        "BG_The_Umar_Hills.ogg": {
-            "styles": [
-                "dark",
-                "nature"
-            ],
-            "lastplay": 1518396013.3784065,
-            "source": "BG",
-            "filename": "BG_The_Umar_Hills.ogg"
-        },
-        "BG_Romance_2.ogg": {
-            "styles": [
-                "city"
-            ],
-            "lastplay": 1516047165.9814491,
-            "source": "BG",
-            "filename": "BG_Romance_2.ogg"
-        },
-        "BG_Throne_of_Bhaal_Theme.ogg": {
-            "styles": [
-                "intro"
-            ],
-            "lastplay": 1518398035.8618553,
-            "source": "BG",
-            "filename": "BG_Throne_of_Bhaal_Theme.ogg"
-        },
-        "BG_Tomb_of_the_Unborn_Prophet.ogg": {
-            "styles": [
-                "dark",
-                "city",
-                "sand"
-            ],
-            "lastplay": 1518393339.7353508,
-            "source": "BG",
-            "filename": "BG_Tomb_of_the_Unborn_Prophet.ogg"
-        },
-        "witcher_Witch_Hunters.ogg": {
+        "BG_Dragomirs_Embrace.ogg": {
+            "lastplay": 1518937104.324409,
+            "filename": "BG_Dragomirs_Embrace.ogg",
             "styles": [
                 "dark"
             ],
-            "lastplay": 1518395605.08843,
-            "source": "witcher",
-            "filename": "witcher_Witch_Hunters.ogg"
+            "source": "BG"
         },
-        "wow_War.ogg": {
+        "witcher_Kaer_Morhen.ogg": {
+            "lastplay": 1518930512.4273157,
+            "filename": "witcher_Kaer_Morhen.ogg",
+            "styles": [
+                "city"
+            ],
+            "source": "witcher"
+        },
+        "hearth_Heroes_of_Warcraft.ogg": {
+            "lastplay": 1516043454.3211553,
+            "filename": "hearth_Heroes_of_Warcraft.ogg",
+            "styles": [
+                "malefique"
+            ],
+            "source": "hearth"
+        },
+        "witcher_Widow-Maker.ogg": {
+            "lastplay": 1518936408.2379887,
+            "filename": "witcher_Widow-Maker.ogg",
             "styles": [
                 "fight"
             ],
-            "lastplay": 0,
-            "source": "wow",
-            "filename": "wow_War.ogg"
+            "source": "witcher"
         },
-        "witcher_Silver_For_Monsters.ogg": {
+        "witcher_A_Story_You_Wont_Believe.ogg": {
+            "lastplay": 1518397723.5738473,
+            "filename": "witcher_A_Story_You_Wont_Believe.ogg",
+            "styles": [
+                "tavern"
+            ],
+            "source": "witcher"
+        },
+        "wow_The_Undercity.ogg": {
+            "lastplay": 1518938528.2451003,
+            "filename": "wow_The_Undercity.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "wow"
+        },
+        "witcher_King_Brans_Final_Voyage.ogg": {
+            "lastplay": 1518929608.1730661,
+            "filename": "witcher_King_Brans_Final_Voyage.ogg",
+            "styles": [
+                "nature"
+            ],
+            "source": "witcher"
+        },
+        "BG_Mountain_Battle_1.ogg": {
+            "lastplay": 1521355933.5419264,
+            "filename": "BG_Mountain_Battle_1.ogg",
             "styles": [
                 "fight"
             ],
+            "source": "BG"
+        },
+        "witcher_The_Hunters_Path.ogg": {
+            "lastplay": 1521353795.0232089,
+            "filename": "witcher_The_Hunters_Path.ogg",
+            "styles": [
+                "nature",
+                "dark"
+            ],
+            "source": "witcher"
+        },
+        "BG_Pocket_Plane.ogg": {
+            "lastplay": 1521352177.2340376,
+            "filename": "BG_Pocket_Plane.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "BG"
+        },
+        "BG_Dream.ogg": {
+            "lastplay": 1521352022.0879588,
+            "filename": "BG_Dream.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "BG"
+        },
+        "witcher_The_Big_Four.ogg": {
+            "lastplay": 1518937171.8185122,
+            "filename": "witcher_The_Big_Four.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "witcher"
+        },
+        "witcher_Wake_Up_Ciri.ogg": {
+            "lastplay": 1518929513.7400236,
+            "filename": "witcher_Wake_Up_Ciri.ogg",
+            "styles": [
+                "nature"
+            ],
+            "source": "witcher"
+        },
+        "skyrim_A_Chance_Meeting.ogg": {
+            "lastplay": 1518397267.3180513,
+            "filename": "skyrim_A_Chance_Meeting.ogg",
+            "styles": [
+                "city"
+            ],
+            "source": "skyrim"
+        },
+        "skyrim_Out_of_the_Cold.ogg": {
+            "lastplay": 1518921475.1175954,
+            "filename": "skyrim_Out_of_the_Cold.ogg",
+            "styles": [
+                "tavern"
+            ],
+            "source": "skyrim"
+        },
+        "skyrim_The_Bannered_Mare.ogg": {
+            "lastplay": 1518922708.4959688,
+            "filename": "skyrim_The_Bannered_Mare.ogg",
+            "styles": [
+                "city",
+                "tavern"
+            ],
+            "source": "skyrim"
+        },
+        "witcher_The_Shrieker_Contract.ogg": {
+            "lastplay": 1518926452.5973074,
+            "filename": "witcher_The_Shrieker_Contract.ogg",
+            "styles": [
+                "fight"
+            ],
+            "source": "witcher"
+        },
+        "BG_Throne_of_Bhaal_Theme.ogg": {
+            "lastplay": 1518921102.2399087,
+            "filename": "BG_Throne_of_Bhaal_Theme.ogg",
+            "styles": [
+                "intro"
+            ],
+            "source": "BG"
+        },
+        "witcher_The_Tree_When_We_Sat_Once.ogg": {
+            "lastplay": 1518396941.2631764,
+            "filename": "witcher_The_Tree_When_We_Sat_Once.ogg",
+            "styles": [
+                "city"
+            ],
+            "source": "witcher"
+        },
+        "BG_Shadow_Battle.ogg": {
+            "lastplay": 1518936037.4996538,
+            "filename": "BG_Shadow_Battle.ogg",
+            "styles": [
+                "fight"
+            ],
+            "source": "BG"
+        },
+        "wow_Orgrimmar.ogg": {
             "lastplay": 0,
-            "source": "witcher",
-            "filename": "witcher_Silver_For_Monsters.ogg"
+            "filename": "wow_Orgrimmar.ogg",
+            "styles": [
+                "malefique"
+            ],
+            "source": "wow"
+        },
+        "hearth_Playing_with_a_Full_Deck.ogg": {
+            "lastplay": 1518396757.5928655,
+            "filename": "hearth_Playing_with_a_Full_Deck.ogg",
+            "styles": [
+                "city"
+            ],
+            "source": "hearth"
+        },
+        "witcher_Conjunction_Of_The_Spheres.ogg": {
+            "lastplay": 0,
+            "filename": "witcher_Conjunction_Of_The_Spheres.ogg",
+            "styles": [
+                "malefique"
+            ],
+            "source": "witcher"
+        },
+        "skyrim_The_Jerall_Mountains.ogg": {
+            "lastplay": 1518933831.377786,
+            "filename": "skyrim_The_Jerall_Mountains.ogg",
+            "styles": [
+                "nature"
+            ],
+            "source": "skyrim"
+        },
+        "skyrim_Dragonsreach.ogg": {
+            "lastplay": 1516044254.7015984,
+            "filename": "skyrim_Dragonsreach.ogg",
+            "styles": [
+                "prayer"
+            ],
+            "source": "skyrim"
+        },
+        "witcher_The_Trail.ogg": {
+            "lastplay": 1518925843.802504,
+            "filename": "witcher_The_Trail.ogg",
+            "styles": [
+                "fight"
+            ],
+            "source": "witcher"
+        },
+        "BG_The_Hidden_Refuge.ogg": {
+            "lastplay": 1518934031.0033224,
+            "filename": "BG_The_Hidden_Refuge.ogg",
+            "styles": [
+                "nature"
+            ],
+            "source": "BG"
+        },
+        "skyrim_The_Gathering_Storm.ogg": {
+            "lastplay": 1518929914.8530257,
+            "filename": "skyrim_The_Gathering_Storm.ogg",
+            "styles": [
+                "nature"
+            ],
+            "source": "skyrim"
+        },
+        "BG_Plains_Battle_1.ogg": {
+            "lastplay": 1522724084.605558,
+            "filename": "BG_Plains_Battle_1.ogg",
+            "styles": [
+                "fight"
+            ],
+            "source": "BG"
+        },
+        "BG_Asylum_Journey.ogg": {
+            "lastplay": 1521354829.5029352,
+            "filename": "BG_Asylum_Journey.ogg",
+            "styles": [
+                "dark",
+                "fight"
+            ],
+            "source": "BG"
+        },
+        "witcher_Back_On_The_Path.ogg": {
+            "lastplay": 1518396499.7994826,
+            "filename": "witcher_Back_On_The_Path.ogg",
+            "styles": [
+                "city"
+            ],
+            "source": "witcher"
+        },
+        "BG_Anomen_Romance.ogg": {
+            "lastplay": 1518930905.343263,
+            "filename": "BG_Anomen_Romance.ogg",
+            "styles": [
+                "city"
+            ],
+            "source": "BG"
+        },
+        "BG_Resurrection_Gorge.ogg": {
+            "lastplay": 1521353962.3052545,
+            "filename": "BG_Resurrection_Gorge.ogg",
+            "styles": [
+                "nature",
+                "dark"
+            ],
+            "source": "BG"
+        },
+        "witcher_Commanding_The_Fury.ogg": {
+            "lastplay": 1518935909.28035,
+            "filename": "witcher_Commanding_The_Fury.ogg",
+            "styles": [
+                "fight"
+            ],
+            "source": "witcher"
+        },
+        "witcher_The_Possesion_Of_Jarl_Udalryk.ogg": {
+            "lastplay": 1518934780.072084,
+            "filename": "witcher_The_Possesion_Of_Jarl_Udalryk.ogg",
+            "styles": [
+                "fight"
+            ],
+            "source": "witcher"
+        },
+        "witcher_Like_A_Wounded_Animal.ogg": {
+            "lastplay": 1518926313.017424,
+            "filename": "witcher_Like_A_Wounded_Animal.ogg",
+            "styles": [
+                "fight"
+            ],
+            "source": "witcher"
+        },
+        "witcher_Emhyr_Var_Emreis.ogg": {
+            "lastplay": 1518938539.725072,
+            "filename": "witcher_Emhyr_Var_Emreis.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "witcher"
+        },
+        "BG_The_Copper_Coronet.ogg": {
+            "lastplay": 1518922639.0342512,
+            "filename": "BG_The_Copper_Coronet.ogg",
+            "styles": [
+                "tavern",
+                "city"
+            ],
+            "source": "BG"
+        },
+        "BG_City_Gates.ogg": {
+            "lastplay": 1518930822.5306551,
+            "filename": "BG_City_Gates.ogg",
+            "styles": [
+                "city"
+            ],
+            "source": "BG"
+        },
+        "witcher_Nemesis.ogg": {
+            "lastplay": 1518937878.3923936,
+            "filename": "witcher_Nemesis.ogg",
+            "styles": [
+                "fight"
+            ],
+            "source": "witcher"
+        },
+        "skyrim_Frostfall.ogg": {
+            "lastplay": 1518935487.6472669,
+            "filename": "skyrim_Frostfall.ogg",
+            "styles": [
+                "nature"
+            ],
+            "source": "skyrim"
+        },
+        "witcher_I_Name_Thee_Dea_And_Embrace_Thee_As_My_Daughter.ogg": {
+            "lastplay": 1518933530.023171,
+            "filename": "witcher_I_Name_Thee_Dea_And_Embrace_Thee_As_My_Daughter.ogg",
+            "styles": [
+                "nature"
+            ],
+            "source": "witcher"
+        },
+        "BG_Forest_of_Tethyr.ogg": {
+            "lastplay": 1518928689.1697364,
+            "filename": "BG_Forest_of_Tethyr.ogg",
+            "styles": [
+                "nature"
+            ],
+            "source": "BG"
+        },
+        "wow_Seasons_of_War.ogg": {
+            "lastplay": 0,
+            "filename": "wow_Seasons_of_War.ogg",
+            "styles": [
+                "malefique"
+            ],
+            "source": "wow"
+        },
+        "BG_Raid_on_the_Red_Wizards.ogg": {
+            "lastplay": 1522723963.045807,
+            "filename": "BG_Raid_on_the_Red_Wizards.ogg",
+            "styles": [
+                "fight"
+            ],
+            "source": "BG"
+        },
+        "skyrim_Journey's_End.ogg": {
+            "lastplay": 1518933280.3068626,
+            "filename": "skyrim_Journey's_End.ogg",
+            "styles": [
+                "nature"
+            ],
+            "source": "skyrim"
+        },
+        "witcher_Igni.ogg": {
+            "lastplay": 1518934656.106156,
+            "filename": "witcher_Igni.ogg",
+            "styles": [
+                "fight",
+                "brawl"
+            ],
+            "source": "witcher"
+        },
+        "witcher_Geralt_Of_Rivia.ogg": {
+            "lastplay": 1518398709.0876498,
+            "filename": "witcher_Geralt_Of_Rivia.ogg",
+            "styles": [
+                "epic",
+                "intro"
+            ],
+            "source": "witcher"
+        },
+        "BG_The_Mines_of_Clan_Deepstone.ogg": {
+            "lastplay": 1521351913.3627677,
+            "filename": "BG_The_Mines_of_Clan_Deepstone.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "BG"
+        },
+        "BG_The_Slums.ogg": {
+            "lastplay": 1518939416.1139934,
+            "filename": "BG_The_Slums.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "BG"
+        },
+        "BG_Red_Dragon_Battle.ogg": {
+            "lastplay": 1518937940.8196485,
+            "filename": "BG_Red_Dragon_Battle.ogg",
+            "styles": [
+                "fight"
+            ],
+            "source": "BG"
+        },
+        "BG_Sendais_Enclave.ogg": {
+            "lastplay": 1521354178.0214398,
+            "filename": "BG_Sendais_Enclave.ogg",
+            "styles": [
+                "dark",
+                "nature"
+            ],
+            "source": "BG"
+        },
+        "witcher_Cloak_And_Dagger.ogg": {
+            "lastplay": 1518921465.4661374,
+            "filename": "witcher_Cloak_And_Dagger.ogg",
+            "styles": [
+                "hurry",
+                "city"
+            ],
+            "source": "witcher"
+        },
+        "BG_Trademeet.ogg": {
+            "lastplay": 1518931440.5220091,
+            "filename": "BG_Trademeet.ogg",
+            "styles": [
+                "city"
+            ],
+            "source": "BG"
+        },
+        "witcher_Hjalmars_Axe.ogg": {
+            "lastplay": 1518923447.072573,
+            "filename": "witcher_Hjalmars_Axe.ogg",
+            "styles": [
+                "city",
+                "brawl"
+            ],
+            "source": "witcher"
+        },
+        "skyrim_Blood_and_Steel.ogg": {
+            "lastplay": 0,
+            "filename": "skyrim_Blood_and_Steel.ogg",
+            "styles": [
+                "malefique"
+            ],
+            "source": "skyrim"
+        },
+        "BG_Waukeens_Promenade.ogg": {
+            "lastplay": 1518397096.7834594,
+            "filename": "BG_Waukeens_Promenade.ogg",
+            "styles": [
+                "city",
+                "sand"
+            ],
+            "source": "BG"
+        },
+        "BG_Fire_Giant_March.ogg": {
+            "lastplay": 0,
+            "filename": "BG_Fire_Giant_March.ogg",
+            "styles": [
+                "epic"
+            ],
+            "source": "BG"
+        },
+        "BG_Forest_Battle_1.ogg": {
+            "lastplay": 1521355993.0604744,
+            "filename": "BG_Forest_Battle_1.ogg",
+            "styles": [
+                "fight"
+            ],
+            "source": "BG"
+        },
+        "witcher_Trial_Of_The_Grasses.ogg": {
+            "lastplay": 1518937264.751533,
+            "filename": "witcher_Trial_Of_The_Grasses.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "witcher"
+        },
+        "skyrim_Tundra.ogg": {
+            "lastplay": 1518929001.4741821,
+            "filename": "skyrim_Tundra.ogg",
+            "styles": [
+                "nature"
+            ],
+            "source": "skyrim"
+        },
+        "witcher_The_Song_Of_The_Sword-Dancer.ogg": {
+            "lastplay": 1518937746.2236018,
+            "filename": "witcher_The_Song_Of_The_Sword-Dancer.ogg",
+            "styles": [
+                "fight"
+            ],
+            "source": "witcher"
         },
         "witcher_Eredin_King_Of_The_Hunt.ogg": {
+            "lastplay": 1521354954.7887254,
+            "filename": "witcher_Eredin_King_Of_The_Hunt.ogg",
             "styles": [
                 "dark",
                 "fight",
                 "malefique"
             ],
-            "lastplay": 1518392798.802296,
-            "source": "witcher",
-            "filename": "witcher_Eredin_King_Of_The_Hunt.ogg"
+            "source": "witcher"
+        },
+        "skyrim_One_They_Fear.ogg": {
+            "lastplay": 1518935325.9477296,
+            "filename": "skyrim_One_They_Fear.ogg",
+            "styles": [
+                "fight",
+                "intro",
+                "epic"
+            ],
+            "source": "skyrim"
+        },
+        "witcher_The_Nightingale.ogg": {
+            "lastplay": 1518922539.1782367,
+            "filename": "witcher_The_Nightingale.ogg",
+            "styles": [
+                "tavern",
+                "city"
+            ],
+            "source": "witcher"
+        },
+        "BG_The_Heretic_Temple.ogg": {
+            "lastplay": 1518937378.7049878,
+            "filename": "BG_The_Heretic_Temple.ogg",
+            "styles": [
+                "dark",
+                "sand"
+            ],
+            "source": "BG"
+        },
+        "wow_Felwood.ogg": {
+            "lastplay": 1518936799.3019485,
+            "filename": "wow_Felwood.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "wow"
+        },
+        "BG_Amaunator_Temple.ogg": {
+            "lastplay": 1521355343.4485443,
+            "filename": "BG_Amaunator_Temple.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "BG"
+        },
+        "BG_The_Vulgar_Monkey_Tavern.ogg": {
+            "lastplay": 1518921989.3153574,
+            "filename": "BG_The_Vulgar_Monkey_Tavern.ogg",
+            "styles": [
+                "tavern"
+            ],
+            "source": "BG"
+        },
+        "BG_Underdark.ogg": {
+            "lastplay": 1521355102.3255723,
+            "filename": "BG_Underdark.ogg",
+            "styles": [
+                "dark",
+                "fight"
+            ],
+            "source": "BG"
+        },
+        "BG_The_Umar_Hills.ogg": {
+            "lastplay": 1521354759.9257367,
+            "filename": "BG_The_Umar_Hills.ogg",
+            "styles": [
+                "dark",
+                "nature"
+            ],
+            "source": "BG"
+        },
+        "skyrim_Caught_off_Guard.ogg": {
+            "lastplay": 1521355862.769595,
+            "filename": "skyrim_Caught_off_Guard.ogg",
+            "styles": [
+                "fight"
+            ],
+            "source": "skyrim"
+        },
+        "BG_Our_Haven_is_Lost.ogg": {
+            "lastplay": 1518929846.9293487,
+            "filename": "BG_Our_Haven_is_Lost.ogg",
+            "styles": [
+                "nature"
+            ],
+            "source": "BG"
+        },
+        "BG_Khalids_Death.ogg": {
+            "lastplay": 1521352180.0547435,
+            "filename": "BG_Khalids_Death.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "BG"
+        },
+        "skyrim_Awake.ogg": {
+            "lastplay": 1518930419.2310839,
+            "filename": "skyrim_Awake.ogg",
+            "styles": [
+                "city"
+            ],
+            "source": "skyrim"
+        },
+        "witcher_Whispers_Of_Oxenfurt.ogg": {
+            "lastplay": 1518930667.9083917,
+            "filename": "witcher_Whispers_Of_Oxenfurt.ogg",
+            "styles": [
+                "city"
+            ],
+            "source": "witcher"
+        },
+        "BG_Nightmare_in_the_Docks.ogg": {
+            "lastplay": 1521352019.6112413,
+            "filename": "BG_Nightmare_in_the_Docks.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "BG"
+        },
+        "witcher_Silver_For_Monsters.ogg": {
+            "lastplay": 1521355722.8665588,
+            "filename": "witcher_Silver_For_Monsters.ogg",
+            "styles": [
+                "fight"
+            ],
+            "source": "witcher"
+        },
+        "witcher_In_The_Giants_Shadow.ogg": {
+            "lastplay": 1518937516.400085,
+            "filename": "witcher_In_The_Giants_Shadow.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "witcher"
+        },
+        "BG_The_Planar_Sphere.ogg": {
+            "lastplay": 1521352398.013074,
+            "filename": "BG_The_Planar_Sphere.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "BG"
+        },
+        "skyrim_Ancient_Stones.ogg": {
+            "lastplay": 1518931155.2623982,
+            "filename": "skyrim_Ancient_Stones.ogg",
+            "styles": [
+                "city"
+            ],
+            "source": "skyrim"
+        },
+        "BG_The_Domain_of_the_Dragon.ogg": {
+            "lastplay": 1518926194.4071677,
+            "filename": "BG_The_Domain_of_the_Dragon.ogg",
+            "styles": [
+                "fight",
+                "malefique"
+            ],
+            "source": "BG"
+        },
+        "BG_Melissans_Theme.ogg": {
+            "lastplay": 1518929740.5634973,
+            "filename": "BG_Melissans_Theme.ogg",
+            "styles": [
+                "nature"
+            ],
+            "source": "BG"
+        },
+        "BG_Dungeon_Battle_2.ogg": {
+            "lastplay": 1518938343.556131,
+            "filename": "BG_Dungeon_Battle_2.ogg",
+            "styles": [
+                "fight"
+            ],
+            "source": "BG"
+        },
+        "BG_The_Good.ogg": {
+            "lastplay": 1518397687.7000988,
+            "filename": "BG_The_Good.ogg",
+            "styles": [
+                "city"
+            ],
+            "source": "BG"
+        },
+        "BG_Jon_Irenicus_Encounter_Theme.ogg": {
+            "lastplay": 1518936957.746962,
+            "filename": "BG_Jon_Irenicus_Encounter_Theme.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "BG"
+        },
+        "BG_Forest_Battle_2.ogg": {
+            "lastplay": 1522723962.444324,
+            "filename": "BG_Forest_Battle_2.ogg",
+            "styles": [
+                "fight"
+            ],
+            "source": "BG"
+        },
+        "BG_The_Beholder_Dungeon.ogg": {
+            "lastplay": 1518939230.108383,
+            "filename": "BG_The_Beholder_Dungeon.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "BG"
+        },
+        "witcher_City_Of_Intrigues.ogg": {
+            "lastplay": 1518938009.704437,
+            "filename": "witcher_City_Of_Intrigues.ogg",
+            "styles": [
+                "fight",
+                "brawl"
+            ],
+            "source": "witcher"
+        },
+        "wow_Temple.ogg": {
+            "lastplay": 1521354695.2750108,
+            "filename": "wow_Temple.ogg",
+            "styles": [
+                "nature",
+                "dark"
+            ],
+            "source": "wow"
+        },
+        "wow_Legacy.ogg": {
+            "lastplay": 0,
+            "filename": "wow_Legacy.ogg",
+            "styles": [
+                "sand"
+            ],
+            "source": "wow"
+        },
+        "wow_Duskwood.ogg": {
+            "lastplay": 1521353357.0814536,
+            "filename": "wow_Duskwood.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "wow"
+        },
+        "wow_Ruins.ogg": {
+            "lastplay": 1521352251.504213,
+            "filename": "wow_Ruins.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "wow"
+        },
+        "BG_Irenicus_Final_Battle.ogg": {
+            "lastplay": 1518926123.5355926,
+            "filename": "BG_Irenicus_Final_Battle.ogg",
+            "styles": [
+                "fight"
+            ],
+            "source": "BG"
+        },
+        "wow_Tavern.ogg": {
+            "lastplay": 1518921657.2327435,
+            "filename": "wow_Tavern.ogg",
+            "styles": [
+                "tavern"
+            ],
+            "source": "wow"
+        },
+        "BG_The_Asylum.ogg": {
+            "lastplay": 1521355284.106561,
+            "filename": "BG_The_Asylum.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "BG"
+        },
+        "BG_Temple_of_Helm.ogg": {
+            "lastplay": 1516044624.0874379,
+            "filename": "BG_Temple_of_Helm.ogg",
+            "styles": [
+                "prayer"
+            ],
+            "source": "BG"
+        },
+        "skyrim_Far_Horizons.ogg": {
+            "lastplay": 1518934244.7813883,
+            "filename": "skyrim_Far_Horizons.ogg",
+            "styles": [
+                "nature"
+            ],
+            "source": "skyrim"
+        },
+        "skyrim_Beneath_the_Ice.ogg": {
+            "lastplay": 1518937686.487792,
+            "filename": "skyrim_Beneath_the_Ice.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "skyrim"
+        },
+        "wow_Thunder_Bluff.ogg": {
+            "lastplay": 0,
+            "filename": "wow_Thunder_Bluff.ogg",
+            "styles": [
+                "sand"
+            ],
+            "source": "wow"
+        },
+        "wow_Shimmering_Flats.ogg": {
+            "lastplay": 1521353108.8004467,
+            "filename": "wow_Shimmering_Flats.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "wow"
+        },
+        "witcher_Yes_I_Do.ogg": {
+            "lastplay": 1515811543.4615793,
+            "filename": "witcher_Yes_I_Do.ogg",
+            "styles": [
+                "romance"
+            ],
+            "source": "witcher"
+        },
+        "BG_Mountain_Battle_2.ogg": {
+            "lastplay": 1518935841.909361,
+            "filename": "BG_Mountain_Battle_2.ogg",
+            "styles": [
+                "fight"
+            ],
+            "source": "BG"
+        },
+        "BG_Astral_Prison.ogg": {
+            "lastplay": 1521352115.1919065,
+            "filename": "BG_Astral_Prison.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "BG"
+        },
+        "skyrim_Standing_Stones.ogg": {
+            "lastplay": 1521352445.7496252,
+            "filename": "skyrim_Standing_Stones.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "skyrim"
+        },
+        "wow_Sacred.ogg": {
+            "lastplay": 1516058206.6417859,
+            "filename": "wow_Sacred.ogg",
+            "styles": [
+                "prayer"
+            ],
+            "source": "wow"
+        },
+        "BG_City_Battle_2.ogg": {
+            "lastplay": 1518926384.1548922,
+            "filename": "BG_City_Battle_2.ogg",
+            "styles": [
+                "fight"
+            ],
+            "source": "BG"
+        },
+        "wow_Moonfall.ogg": {
+            "lastplay": 1518931684.853471,
+            "filename": "wow_Moonfall.ogg",
+            "styles": [
+                "nature"
+            ],
+            "source": "wow"
+        },
+        "witcher_After_The_Storm.ogg": {
+            "lastplay": 1518930273.2527907,
+            "filename": "witcher_After_The_Storm.ogg",
+            "styles": [
+                "nature"
+            ],
+            "source": "witcher"
+        },
+        "BG_Dreams_of_Bhaal.ogg": {
+            "lastplay": 1518938689.1237931,
+            "filename": "BG_Dreams_of_Bhaal.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "BG"
+        },
+        "BG_Storming_the_Silver_Heaven.ogg": {
+            "lastplay": 1518938418.999986,
+            "filename": "BG_Storming_the_Silver_Heaven.ogg",
+            "styles": [
+                "fight"
+            ],
+            "source": "BG"
+        },
+        "skyrim_Shadows_and_Echoes.ogg": {
+            "lastplay": 1518939090.6290696,
+            "filename": "skyrim_Shadows_and_Echoes.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "skyrim"
+        },
+        "BG_Plains_Battle_2.ogg": {
+            "lastplay": 1518926232.3705955,
+            "filename": "BG_Plains_Battle_2.ogg",
+            "styles": [
+                "fight"
+            ],
+            "source": "BG"
+        },
+        "BG_The_Pirate_Isle.ogg": {
+            "lastplay": 1518922482.978874,
+            "filename": "BG_The_Pirate_Isle.ogg",
+            "styles": [
+                "tavern",
+                "city"
+            ],
+            "source": "BG"
+        },
+        "skyrim_The_City_Gates.ogg": {
+            "lastplay": 1518931501.3978708,
+            "filename": "skyrim_The_City_Gates.ogg",
+            "styles": [
+                "nature",
+                "city"
+            ],
+            "source": "skyrim"
+        },
+        "BG_Abazigals_Enclave.ogg": {
+            "lastplay": 0,
+            "filename": "BG_Abazigals_Enclave.ogg",
+            "styles": [
+                "malefique"
+            ],
+            "source": "BG"
+        },
+        "BG_Rendezvous_at_Dusk.ogg": {
+            "lastplay": 1518938885.4129167,
+            "filename": "BG_Rendezvous_at_Dusk.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "BG"
+        },
+        "witcher_The_Hunt_Is_Coming.ogg": {
+            "lastplay": 1521355625.095877,
+            "filename": "witcher_The_Hunt_Is_Coming.ogg",
+            "styles": [
+                "malefique",
+                "fight"
+            ],
+            "source": "witcher"
+        },
+        "witcher_Welcome_Imlerith.ogg": {
+            "lastplay": 1518925414.4729764,
+            "filename": "witcher_Welcome_Imlerith.ogg",
+            "styles": [
+                "fight",
+                "malefique"
+            ],
+            "source": "witcher"
+        },
+        "BG_Claw_of_the_Black_Leopard.ogg": {
+            "lastplay": 1518939018.0632293,
+            "filename": "BG_Claw_of_the_Black_Leopard.ogg",
+            "styles": [
+                "dark"
+            ],
+            "source": "BG"
+        },
+        "BG_City_Battle_1.ogg": {
+            "lastplay": 1518926013.719459,
+            "filename": "BG_City_Battle_1.ogg",
+            "styles": [
+                "fight"
+            ],
+            "source": "BG"
+        },
+        "skyrim_Watch_the_Skies.ogg": {
+            "lastplay": 1518926658.6728485,
+            "filename": "skyrim_Watch_the_Skies.ogg",
+            "styles": [
+                "fight"
+            ],
+            "source": "skyrim"
+        },
+        "BG_Tomb_of_the_Unborn_Prophet.ogg": {
+            "lastplay": 1518939348.3273728,
+            "filename": "BG_Tomb_of_the_Unborn_Prophet.ogg",
+            "styles": [
+                "dark",
+                "city",
+                "sand"
+            ],
+            "source": "BG"
+        },
+        "BG_Taverns.ogg": {
+            "lastplay": 1518922856.605795,
+            "filename": "BG_Taverns.ogg",
+            "styles": [
+                "city",
+                "tavern"
+            ],
+            "source": "BG"
+        },
+        "wow_War.ogg": {
+            "lastplay": 1518926074.6352613,
+            "filename": "wow_War.ogg",
+            "styles": [
+                "fight"
+            ],
+            "source": "wow"
+        },
+        "BG_Melissan_Battle.ogg": {
+            "lastplay": 1518938136.1421485,
+            "filename": "BG_Melissan_Battle.ogg",
+            "styles": [
+                "fight"
+            ],
+            "source": "BG"
+        },
+        "witcher_Aen_Seidhe.ogg": {
+            "lastplay": 1518933675.2711208,
+            "filename": "witcher_Aen_Seidhe.ogg",
+            "styles": [
+                "nature"
+            ],
+            "source": "witcher"
+        }
+    },
+    "lostfiles": {
+        "hearth_Tricks_of_the_Trade.ogg": {
+            "lastplay": 1515797336.0943637,
+            "filename": "hearth_Tricks_of_the_Trade.ogg",
+            "styles": [],
+            "source": "hearth"
+        },
+        "hearth_Two_Rogues,_One_Mark.ogg": {
+            "lastplay": 1515796870.1012685,
+            "filename": "hearth_Two_Rogues,_One_Mark.ogg",
+            "styles": [],
+            "source": "hearth"
+        },
+        "hearth_The_Arena_Awaits.ogg": {
+            "lastplay": 1515796655.8444726,
+            "filename": "hearth_The_Arena_Awaits.ogg",
+            "styles": [],
+            "source": "hearth"
         }
     },
     "styles": [
@@ -1500,25 +1520,5 @@
         "romance",
         "sand",
         "tavern"
-    ],
-    "lostfiles": {
-        "hearth_Two_Rogues,_One_Mark.ogg": {
-            "styles": [],
-            "lastplay": 1515796870.1012685,
-            "source": "hearth",
-            "filename": "hearth_Two_Rogues,_One_Mark.ogg"
-        },
-        "hearth_Tricks_of_the_Trade.ogg": {
-            "styles": [],
-            "lastplay": 1515797336.0943637,
-            "source": "hearth",
-            "filename": "hearth_Tricks_of_the_Trade.ogg"
-        },
-        "hearth_The_Arena_Awaits.ogg": {
-            "styles": [],
-            "lastplay": 1515796655.8444726,
-            "source": "hearth",
-            "filename": "hearth_The_Arena_Awaits.ogg"
-        }
-    }
+    ]
 }

@@ -1,11 +1,12 @@
 import pygame
+import os
 import json
 
 
 
 display_width = 480
 display_height = 300
-musicpath = '/home/ndolgin/Music/player/music'
+musicpath = os.path.expanduser('~/Music/player/music')
 songdatafile = 'songlist.json'
 
 pygame.init()
