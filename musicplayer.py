@@ -78,7 +78,7 @@ class MusicPlayer():
         self.ispaused = False
         self.cursong = s
         utils.music.load(s.filepath)
-        utils.music.play()
+        utils.music.play(start=s.skipstart)
         self.cursongtime = utils.mixer.Sound(s.filepath).get_length()
         s.lastplay = time.time()
         self.songlist.persist()
