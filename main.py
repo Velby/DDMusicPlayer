@@ -15,6 +15,7 @@ pygame.time.set_timer(CLOCKTICK, t)
 
 def game_loop():
     while True:
+        pygame.time.wait(10) #needed to save the CPU fan
         for event in pygame.event.get():
             shift = pygame.key.get_mods() & pygame.KMOD_SHIFT
             if event.type == CLOCKTICK:
